@@ -16,8 +16,3 @@
 4: Visualizing Cryptocurrencies Results
 
 
-#### Results
-
-
-
-#### Summary
