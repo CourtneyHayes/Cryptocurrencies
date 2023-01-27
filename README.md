@@ -10,9 +10,9 @@
 
 
 ### Deliverables
-1: Preprocessing the Data for PCA -applyndardScaler and fit_transform()
-2: Reducing Data Dimensions Using PCA - apply PCA algorithm to reduce dimension of X Dataframe
-3: Clustering Cryptocurrencies Using K-means - apply Kmean algorithm to predict clusters
-4: Visualizing Cryptocurrencies Results
+1. Preprocessing the Data for PCA -applyndardScaler and fit_transform()
+2. Reducing Data Dimensions Using PCA - apply PCA algorithm to reduce dimension of X Dataframe
+3. Clustering Cryptocurrencies Using K-means - apply Kmean algorithm to predict clusters
+4. Visualizing Cryptocurrencies Results
 
 
